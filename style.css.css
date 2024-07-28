@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid rgb(90, 4, 49); */
+}
+.navbar-brand{
+    width: 6%;
+}
+.navbar{
+    background-color: rgb(236, 4, 197);
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: darkblue;
+}
+.bgimg{
+    background-image: url('https://wallpapercave.com/wp/wp4549849.jpg');
+    width: 100vw;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.hhead{
+
+    color: rgb(55, 3, 31);
+    margin-top: 2%;
+    font-size: 50px;
+}
+.hbtn{
+    width: 20%;
+    font-size: 20px;
+    font-weight:bold ;
+}
+/*about*/
+
+.apara{
+    font-size: 25px;
+    color:#ff0000;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width:100%;
+}
+/*products*/
+.card-title{
+    color: green;
+}
+.card-text{
+    color: #f500f5;
+}
+.space div{
+    border: 10px solid grey;
+}
+/*payments*/
+.input-group-text{
+    background-color: #8e858e;
+    color: white;
+    font-weight: bold;
+    font-size: 2px;
+}
